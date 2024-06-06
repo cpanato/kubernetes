@@ -23,7 +23,7 @@ require (
 	golang.org/x/oauth2 v0.20.0
 	golang.org/x/term v0.20.0
 	golang.org/x/time v0.3.0
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.34.1
 	gopkg.in/evanphx/json-patch.v4 v4.12.0
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
